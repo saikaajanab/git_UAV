@@ -1,0 +1,29 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model / data
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+runs/
